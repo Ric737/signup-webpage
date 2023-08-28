@@ -33,4 +33,5 @@ button{
     background-color: orange;
     border-radius: 7px;
     font-size: 14px;
+    border-color: transparent;
 }
